@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/MagicTavern/npm-rocketchat-webhook/issues"
   },
-  "homepage": "https://github.com/MagicTavern/npm-rocketchat-webhook#readme"
+  "homepage": "https://github.com/MagicTavern/npm-rocketchat-webhook#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
