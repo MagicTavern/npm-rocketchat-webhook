@@ -1,0 +1,24 @@
+{
+  "name": "rocketchat-webhook",
+  "version": "0.0.1",
+  "description": "A simple module to send messages to Rocket.Chat channel or user through pre-configured imcoming WebHooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicTavern/npm-rocketchat-webhook.git"
+  },
+  "keywords": [
+    "rocketchat",
+    "webhook",
+    "api"
+  ],
+  "author": "billtt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagicTavern/npm-rocketchat-webhook/issues"
+  },
+  "homepage": "https://github.com/MagicTavern/npm-rocketchat-webhook#readme"
+}
