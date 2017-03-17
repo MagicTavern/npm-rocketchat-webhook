@@ -1,6 +1,6 @@
 {
   "name": "rocketchat-webhook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple module to send messages to Rocket.Chat channel or user through pre-configured imcoming WebHooks.",
   "main": "index.js",
   "scripts": {
